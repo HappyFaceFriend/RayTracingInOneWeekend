@@ -22,3 +22,4 @@ $ git clone --recursive https://github.com/HappyFaceFriend/RayTracingInOneWeeken
 
 3. Build the project in visual studio
 
+4. The resulting image will be under the directory `RayTracingInOneWeekend`.
